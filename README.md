@@ -6,7 +6,7 @@
 - sapn : 2020.03.01 ~ 2020.04.18
 	
 
-## 프로젝트 시작 개요
+## 프로젝트 개요
 
 ### 회귀 분석 동기
 - 미국의 중고차 시장에 나온  매물들의 가격을 미리 예측하는 모델을 만들어 시장에 나온 자동차가 싼가격인지 비싼가격인지 직관적으로 볼 수 있게 만들기 위함.
@@ -14,7 +14,7 @@
 
 ### 데이터 출처
 - Craiglist(크레이그리스트) https://craigslist.org/: 중고 매물 구인 구직 자유주제 토론등을 다루는 커뮤니티
--kaggle(캐글) https://www.kaggle.com/austinreese/craigslist-carstrucks-data : 데이터셋 제공
+- kaggle(캐글) https://www.kaggle.com/austinreese/craigslist-carstrucks-data : 데이터셋 제공
 
 ## 프로세스
 - EDA : 변수 특성 파악, (가격,주행거리,연식의)상관관계 파악, 주행거리 히스트그램분석
