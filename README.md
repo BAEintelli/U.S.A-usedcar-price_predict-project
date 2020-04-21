@@ -21,6 +21,7 @@
 - 전처리 : vinaudit API를 활용하여 허위매물 필터링, 독립변수 선택
 - 모델링: OLS (스케일링, interacrion, 유의미 변수추가, 정규화)
 - 검증: ANOVA, KFold, test data를 활용 최종검증
+<img src="https://myawsbuckethoward.s3.ap-northeast-2.amazonaws.com/img12.png" width="1350px">
 
 
 ## 회고
