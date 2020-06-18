@@ -8,7 +8,7 @@
 - "Craiglist(미국판 중고나라)"의 약 51만건의 미국 중고차 정보를 활용한 가격 예
 
 # Technical Skills
-- Python, Scikit-learn, pandas, numpy
+- Python, Scikit-learn, pandas, numpy측
 
 # 회귀 분석 동기
 - 미국의 중고차 시장에 나온  매물들의 가격을 미리 예측하는 모델을 만들어 시장에 나온 자동차가 싼가격인지 비싼가격인지 직관적으로 볼 수 있게 만들기 위함.
@@ -37,15 +37,17 @@
 
 - 가설 검증
 	- 가설 1: 미국의 중고차도 한국과 마찬가지로 약 5만Km를 기준으로 가격이 급격히 떨어질 것이다.
+	
 <img src="https://github.com/BAEintelli/U.S.A-usedcar-price_predict-project/blob/master/img/%EA%B0%80%EC%84%A41.png">
 
-	- 데이터에서 가장 많은 매물일 2012년식 포드 F-150 FX4 차량은 주행거리 3만 마일(약 4만8천 km) 지점에서 가격이 급격히 하락
+- 데이터에서 가장 많은 매물일 2012년식 포드 F-150 FX4 차량은 주행거리 3만 마일(약 4만8천 km) 지점에서 가격이 급격히 하락
+
 
 	- 가설 2: 미국은 가 주별로 가격의 차이가 있을 것이다.
 
 <img src="https://github.com/BAEintelli/U.S.A-usedcar-price_predict-project/blob/master/img/%EA%B0%80%EC%84%A42.png">
 
-	- 포드 F-150 FX4 차량의 워싱턴 주와 코네티컷 주의 차량 가격의 차는 약 1만불
+- 포드 F-150 FX4 차량의 워싱턴 주와 코네티컷 주의 차량 가격의 차는 약 1만불
 
 
 
