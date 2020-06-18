@@ -5,10 +5,10 @@
 - made by : 배준영, 유호원, 조대선, 홍성현
 - sapn : 2020.03.01 ~ 2020.04.18
 # Goal
-- "Craiglist(미국판 중고나라)"의 약 51만건의 미국 중고차 정보를 활용한 가격 예
+- "Craiglist(미국판 중고나라)"의 약 51만건의 미국 중고차 정보를 활용한 가격 예측
 
 # Technical Skills
-- Python, Scikit-learn, pandas, numpy측
+- Python, Scikit-learn, pandas, numpy
 
 # 회귀 분석 동기
 - 미국의 중고차 시장에 나온  매물들의 가격을 미리 예측하는 모델을 만들어 시장에 나온 자동차가 싼가격인지 비싼가격인지 직관적으로 볼 수 있게 만들기 위함.
