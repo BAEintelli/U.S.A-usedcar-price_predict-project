@@ -32,7 +32,7 @@
 
 # Result
 - R2-square 약 0.88달성
-https://github.com/BAEintelli/U.S.A-usedcar-price_predict-project/blob/master/img/result.png
+<img src="https://github.com/BAEintelli/U.S.A-usedcar-price_predict-project/blob/master/img/result.png">
 
 
 - 가설 검증
