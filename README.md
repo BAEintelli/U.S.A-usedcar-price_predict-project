@@ -19,8 +19,8 @@
 - kaggle(캐글) https://www.kaggle.com/austinreese/craigslist-carstrucks-data : 데이터셋 제공
 
 # Workprocess 
-<img src="https://myawsbuckethoward.3.ap-northeast-2.amazonaws.com/img12.png" width="1350px">
-측
+<img src="https://github.com/BAEintelli/U.S.A-usedcar-price_predict-project/blob/master/img/workflow%20%EA%B2%B0%EA%B3%BC.png" width="1350px">
+
 # Issue
 - 데이터 특성상 허위 및 광고성 매물로 인한 주행거리, 연식등의 이상치들이 다수 존재
 - 따라서 이상치 탐색 및 제거가 중요
@@ -37,10 +37,11 @@
 
 - 가설 검증
 	- 가설 1: 미국의 중고차도 한국과 마찬가지로 약 5만Km를 기준으로 가격이 급격히 떨어질 것이다.
-
+<img src="https://github.com/BAEintelli/U.S.A-usedcar-price_predict-project/blob/master/img/%EA%B0%80%EC%84%A41.png">
 	- 데이터에서 가장 많은 매물일 2012년식 포드 F-150 FX4 차량은 주행거리 3만 마일(약 4만8천 km) 지점에서 가격이 급격히 하락
 
 	- 가설 2: 미국은 가 주별로 가격의 차이가 있을 것이다.
+<img src="https://github.com/BAEintelli/U.S.A-usedcar-price_predict-project/blob/master/img/%EA%B0%80%EC%84%A42.png">
 	- 포드 F-150 FX4 차량의 워싱턴 주와 코네티컷 주의 차량 가격의 차는 약 1만불
 
 
